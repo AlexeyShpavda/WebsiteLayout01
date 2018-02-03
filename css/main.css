@@ -130,3 +130,55 @@ h1 {
 .works img:last-child {
     float: right;
 }
+.aboutus_item_odd {
+    margin-top: 70px;
+    padding-right: 372px;
+}
+.aboutus_item_even {
+    margin-top: 70px;
+    padding-left: 372px;
+}
+.aboutus_item_odd img {
+    float: right;
+    margin-left: 29px;
+}
+.aboutus_item_even img {
+    float: left;
+    margin-right: 29px;
+}
+.aboutus_text_odd h4{
+    display: block;
+    text-align: right;
+    font-size: 18px;
+    font-weight: bold;
+    margin: 0;
+    padding: 0;
+}
+#first_t {
+    text-transform: uppercase;
+}
+.aboutus_text_odd p {
+    margin-top: 20px;
+    text-align: right;
+    color: #777;
+    font-size: 14px;
+    line-height: 1.8em;
+}
+.aboutus_text_even h4{
+    display: block;
+    text-align: left;
+    font-size: 18px;
+    font-weight: bold;
+    margin: 0;
+    padding: 0;
+}
+#first_t {
+    text-transform: uppercase;
+}
+.aboutus_text_even p {
+    margin-top: 20px;
+    text-align: left;
+    color: #777;
+    font-size: 14px;
+    line-height: 1.8em;
+}
