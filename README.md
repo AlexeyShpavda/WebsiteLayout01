@@ -7,3 +7,6 @@ My first layout
 
 * View of the second section
 ![alt text](screenshots/second_section.png)
+
+* View of the third section
+![alt text](screenshots/third_section.png)
