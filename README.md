@@ -10,3 +10,6 @@ My first layout
 
 * View of the third section
 ![alt text](screenshots/third_section.png)
+
+* View of the fourth section
+![alt text](screenshots/fourth_section.png)
