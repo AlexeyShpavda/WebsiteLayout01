@@ -182,3 +182,7 @@ h1 {
     font-size: 14px;
     line-height: 1.8em;
 }
+footer {
+    background: #F4F4F4;
+    padding-bottom: 80px;
+}
